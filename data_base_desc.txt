@@ -1,0 +1,14 @@
+Region	string
+Country	string	
+Item Type	string	
+Sales Channel	string	
+Order Priority	string	
+Order Date	string	
+Order ID	string	
+Ship Date	string	
+Units Sold	int	
+Unit Price	double	
+Unit Cost	double	
+Total Revenue	double	
+Total Cost	double	
+Total Profit	double
